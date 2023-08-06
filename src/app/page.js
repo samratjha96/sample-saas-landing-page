@@ -2,6 +2,7 @@
 import Image from 'next/image'
 import Navbar from './components/Navbar'
 import Hero from './components/Hero'
+import CTA from './components/CTA'
 
 export default function Home() {
   return (
@@ -9,6 +10,7 @@ export default function Home() {
       <div>
         <Navbar/>
         <Hero/>
+        <CTA/>
       </div>
     </main>
   )
