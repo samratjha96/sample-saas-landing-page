@@ -4,7 +4,7 @@ A beautiful Next.js + Tailwind powered landing page
 
 ## Demo
 
-https://sample-saas-landing-page-7bq8pekaw-samratjha96.vercel.app/
+https://sample-saas-landing-page-samratjha96.vercel.app/
 
 ## Development
 
