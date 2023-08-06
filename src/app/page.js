@@ -4,6 +4,7 @@ import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
 import CTA from "./components/CTA";
 import Newsletter from "./components/Newsletter";
+import Cards from "./components/Cards";
 
 export default function Home() {
   return (
@@ -13,6 +14,7 @@ export default function Home() {
         <Hero />
         <CTA />
         <Newsletter />
+        <Cards />
       </div>
     </main>
   );
